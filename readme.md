@@ -2,7 +2,7 @@
 
 技术：python+langchain+streamlit
 
-![](images\demo.png)
+![demo示例](images/demo.png)
 
 部署：pip install langchain streamlit
 
