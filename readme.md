@@ -2,7 +2,7 @@
 
 技术：python+langchain+streamlit
 
-![](D:\pythonPro\.venv\Agent扫地机器人项目\images\demo.png)
+![](images\demo.png)
 
 部署：pip install langchain streamlit
 
